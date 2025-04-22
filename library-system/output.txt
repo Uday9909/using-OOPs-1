@@ -1,0 +1,14 @@
+Book borrowed: The Great Gatsby
+Alice borrowed "The Great Gatsby"
+Book is not available: The Great Gatsby
+Bob cannot borrow "The Great Gatsby" as it is not available
+Book borrowed: 1984
+Bob borrowed "1984"
+Book returned: The Great Gatsby
+Alice returned "The Great Gatsby"
+Book borrowed: The Great Gatsby
+Bob borrowed "The Great Gatsby"
+Book returned: 1984
+Bob returned "1984"
+Book returned: The Great Gatsby
+Bob returned "The Great Gatsby"
